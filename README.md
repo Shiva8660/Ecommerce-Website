@@ -22,3 +22,5 @@ Ecommerce-Website/ │── assets/ │ ├── images/ │ ├── css/ �
 Clone the repository and open `index.html` in your browser.
 ```bash
 git clone https://github.com/yourusername/Ecommerce-Website.git
+
+Thank You
